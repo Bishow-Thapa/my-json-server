@@ -10,5 +10,167 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "items": [
+    {
+      "id": "ea0b23d8-d001-461a-9e55-47389e285134",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Initial review of the document.",
+      "creatorName": "Alice Smith",
+      "creationTime": "2024-09-20T11:10:05.9007356"
+    },
+    {
+      "id": "f0246383-5047-4c1f-85c6-1a8e4d4aa7ad",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Updated the reference parameters.",
+      "creatorName": "Bob Johnson",
+      "creationTime": "2024-09-20T11:09:40.3217945"
+    },
+    {
+      "id": "05b2434d-e5cd-4f98-9e01-23c88977f1a9",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Final adjustments completed.",
+      "creatorName": "Charlie Davis",
+      "creationTime": "2024-09-20T09:50:53.6256459"
+    },
+    {
+      "id": "1a9e2e0b-7c43-4e74-bf1f-66e5ed60c94d",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Discussion on next steps.",
+      "creatorName": "Dana Lee",
+      "creationTime": "2024-09-20T10:15:45.1234567"
+    },
+    {
+      "id": "e12a3c45-ec5e-4b77-a03e-8c54fda489d7",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Awaiting feedback from the team.",
+      "creatorName": "Eve Taylor",
+      "creationTime": "2024-09-20T10:50:00.6543210"
+    },
+    {
+      "id": "b63cb5f0-4d67-4a35-9f74-6ae0e17d5d7e",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Completed the first draft.",
+      "creatorName": "Frank Wilson",
+      "creationTime": "2024-09-20T10:40:30.9876543"
+    },
+    {
+      "id": "d9d7f7b1-68f1-4e4c-9783-bbe69c6a327d",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Prepared for the meeting.",
+      "creatorName": "Grace Clark",
+      "creationTime": "2024-09-20T10:20:15.8765432"
+    },
+    {
+      "id": "c3b5ef01-bbc9-4db9-a2b6-d6bbf8a0ac4f",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Reviewed the compliance aspects.",
+      "creatorName": "Henry Adams",
+      "creationTime": "2024-09-20T10:05:25.1234560"
+    },
+    {
+      "id": "b3a0bcb4-3e93-41d6-b9d4-3ac36cbd6884",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Implemented the suggested changes.",
+      "creatorName": "Ivy Miller",
+      "creationTime": "2024-09-20T11:30:00.1111111"
+    },
+    {
+      "id": "61c7d3f9-c15b-4d57-8b2e-302c21b8571e",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Consolidated feedback from stakeholders.",
+      "creatorName": "Jack Nguyen",
+      "creationTime": "2024-09-20T11:45:30.2222222"
+    },
+    {
+      "id": "f3d51a6e-e3f0-4c3e-9f27-d8917d4d44e4",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Finalized the submission.",
+      "creatorName": "Kelly Brown",
+      "creationTime": "2024-09-20T12:00:00.3333333"
+    },
+    {
+      "id": "d8b34f8f-f1f6-4c7d-9b91-5f71d3704475",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Created initial draft outline.",
+      "creatorName": "Liam Scott",
+      "creationTime": "2024-09-20T11:05:12.6543210"
+    },
+    {
+      "id": "c8f6a8f5-b4c9-4f29-8ec8-185ef9b5763e",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Analyzed data for trends.",
+      "creatorName": "Mia Robinson",
+      "creationTime": "2024-09-20T10:30:45.7890123"
+    },
+    {
+      "id": "f84ed1b6-e5c3-4bba-8ec3-dac3c1e9f4ae",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Provided training to the team.",
+      "creatorName": "Noah White",
+      "creationTime": "2024-09-20T09:55:36.1234567"
+    },
+    {
+      "id": "e4f75b2a-3e0d-4df2-a9ae-22b84c3d3f61",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Evaluated project outcomes.",
+      "creatorName": "Olivia Lee",
+      "creationTime": "2024-09-20T11:25:00.0000000"
+    },
+    {
+      "id": "ffec7b58-36b5-4d2c-a5f4-4b7d8238ae30",
+      "referenceId": "2135f807-bc97-4c3e-b8d9-6a59b1281fca",
+      "creatorId": "73fc9457-6b63-6a4a-64de-39f960722731",
+      "category": "ReferenceCompanyCircularPlanningAdd",
+      "logInformation": null,
+      "remarks": "Compiled the final report.",
+      "creatorName": "Peter Garcia",
+      "creationTime": "2024-09-20T11:55:22.4444444"
+    }
+  ]
 }
